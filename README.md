@@ -1,2 +1,4 @@
 # TIC-TAC-TOE
-Tic Tac Toe
+This is a console based game.>>
+Purely Coded in Python.>>
+I have used Jupyter notebook for the same.
